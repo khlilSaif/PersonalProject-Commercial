@@ -1,0 +1,100 @@
+/home/saif/commercialSite/commercialSite/commercial/bin/Debug/net7.0/appsettings.Development.json
+/home/saif/commercialSite/commercialSite/commercial/bin/Debug/net7.0/appsettings.json
+/home/saif/commercialSite/commercialSite/commercial/bin/Debug/net7.0/commercial
+/home/saif/commercialSite/commercialSite/commercial/bin/Debug/net7.0/commercial.deps.json
+/home/saif/commercialSite/commercialSite/commercial/bin/Debug/net7.0/commercial.runtimeconfig.json
+/home/saif/commercialSite/commercialSite/commercial/bin/Debug/net7.0/commercial.dll
+/home/saif/commercialSite/commercialSite/commercial/bin/Debug/net7.0/commercial.pdb
+/home/saif/commercialSite/commercialSite/commercial/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/home/saif/commercialSite/commercialSite/commercial/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/home/saif/commercialSite/commercialSite/commercial/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/saif/commercialSite/commercialSite/commercial/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/saif/commercialSite/commercialSite/commercial/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/saif/commercialSite/commercialSite/commercial/obj/Debug/net7.0/commercial.csproj.AssemblyReference.cache
+/home/saif/commercialSite/commercialSite/commercial/obj/Debug/net7.0/commercial.GeneratedMSBuildEditorConfig.editorconfig
+/home/saif/commercialSite/commercialSite/commercial/obj/Debug/net7.0/commercial.AssemblyInfoInputs.cache
+/home/saif/commercialSite/commercialSite/commercial/obj/Debug/net7.0/commercial.AssemblyInfo.cs
+/home/saif/commercialSite/commercialSite/commercial/obj/Debug/net7.0/commercial.csproj.CoreCompileInputs.cache
+/home/saif/commercialSite/commercialSite/commercial/obj/Debug/net7.0/commercial.MvcApplicationPartsAssemblyInfo.cs
+/home/saif/commercialSite/commercialSite/commercial/obj/Debug/net7.0/commercial.MvcApplicationPartsAssemblyInfo.cache
+/home/saif/commercialSite/commercialSite/commercial/obj/Debug/net7.0/staticwebassets/msbuild.commercial.Microsoft.AspNetCore.StaticWebAssets.props
+/home/saif/commercialSite/commercialSite/commercial/obj/Debug/net7.0/staticwebassets/msbuild.build.commercial.props
+/home/saif/commercialSite/commercialSite/commercial/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.commercial.props
+/home/saif/commercialSite/commercialSite/commercial/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.commercial.props
+/home/saif/commercialSite/commercialSite/commercial/obj/Debug/net7.0/staticwebassets.pack.json
+/home/saif/commercialSite/commercialSite/commercial/obj/Debug/net7.0/staticwebassets.build.json
+/home/saif/commercialSite/commercialSite/commercial/obj/Debug/net7.0/staticwebassets.development.json
+/home/saif/commercialSite/commercialSite/commercial/obj/Debug/net7.0/scopedcss/bundle/commercial.styles.css
+/home/saif/commercialSite/commercialSite/commercial/obj/Debug/net7.0/commercial.csproj.CopyComplete
+/home/saif/commercialSite/commercialSite/commercial/obj/Debug/net7.0/commercial.dll
+/home/saif/commercialSite/commercialSite/commercial/obj/Debug/net7.0/refint/commercial.dll
+/home/saif/commercialSite/commercialSite/commercial/obj/Debug/net7.0/commercial.pdb
+/home/saif/commercialSite/commercialSite/commercial/obj/Debug/net7.0/commercial.genruntimeconfig.cache
+/home/saif/commercialSite/commercialSite/commercial/obj/Debug/net7.0/ref/commercial.dll
+/home/saif/commercialSite/commercialSite/commercial/bin/Debug/net7.0/dblocal.json
+/home/saif/commercialSite/commercialSite/commercial/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/home/saif/commercialSite/commercialSite/commercial/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/saif/commercialSite/commercialSite/commercial/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/saif/commercialSite/commercialSite/commercial/bin/Debug/net7.0/Npgsql.dll
+/home/saif/commercialSite/commercialSite/commercial/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/saif/commercialSite/commercialSite/commercial/bin/Debug/net7.0/Humanizer.dll
+/home/saif/commercialSite/commercialSite/commercial/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/saif/commercialSite/commercialSite/commercial/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/home/saif/commercialSite/commercialSite/commercial/bin/Debug/net7.0/Mono.TextTemplating.dll
+/home/saif/commercialSite/commercialSite/commercial/bin/Debug/net7.0/System.CodeDom.dll
+/home/saif/commercialSite/commercialSite/commercial/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/home/saif/commercialSite/commercialSite/commercial/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/saif/commercialSite/commercialSite/commercial/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/home/saif/commercialSite/commercialSite/commercial/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/home/saif/commercialSite/commercialSite/commercial/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/home/saif/commercialSite/commercialSite/commercial/bin/Debug/net7.0/System.Security.Permissions.dll
+c:\Users\samir\Documents\New folder\commercialSite\commercial\obj\Debug\net7.0\commercial.csproj.AssemblyReference.cache
+c:\Users\samir\Documents\New folder\commercialSite\commercial\obj\Debug\net7.0\commercial.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\samir\Documents\New folder\commercialSite\commercial\obj\Debug\net7.0\commercial.AssemblyInfoInputs.cache
+c:\Users\samir\Documents\New folder\commercialSite\commercial\obj\Debug\net7.0\commercial.AssemblyInfo.cs
+c:\Users\samir\Documents\New folder\commercialSite\commercial\obj\Debug\net7.0\commercial.csproj.CoreCompileInputs.cache
+c:\Users\samir\Documents\New folder\commercialSite\commercial\obj\Debug\net7.0\commercial.MvcApplicationPartsAssemblyInfo.cs
+c:\Users\samir\Documents\New folder\commercialSite\commercial\obj\Debug\net7.0\commercial.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\samir\Documents\New folder\commercialSite\commercial\obj\Debug\net7.0\commercial.dll
+c:\Users\samir\Documents\New folder\commercialSite\commercial\obj\Debug\net7.0\refint\commercial.dll
+c:\Users\samir\Documents\New folder\commercialSite\commercial\obj\Debug\net7.0\commercial.pdb
+C:\Users\samir\Documents\New folder\commercialSite\commercial\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\samir\Documents\New folder\commercialSite\commercial\bin\Debug\net7.0\appsettings.json
+C:\Users\samir\Documents\New folder\commercialSite\commercial\bin\Debug\net7.0\dblocal.json
+C:\Users\samir\Documents\New folder\commercialSite\commercial\bin\Debug\net7.0\commercial.exe
+C:\Users\samir\Documents\New folder\commercialSite\commercial\bin\Debug\net7.0\commercial.deps.json
+C:\Users\samir\Documents\New folder\commercialSite\commercial\bin\Debug\net7.0\commercial.runtimeconfig.json
+C:\Users\samir\Documents\New folder\commercialSite\commercial\bin\Debug\net7.0\commercial.dll
+C:\Users\samir\Documents\New folder\commercialSite\commercial\bin\Debug\net7.0\commercial.pdb
+C:\Users\samir\Documents\New folder\commercialSite\commercial\bin\Debug\net7.0\Humanizer.dll
+C:\Users\samir\Documents\New folder\commercialSite\commercial\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\samir\Documents\New folder\commercialSite\commercial\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\samir\Documents\New folder\commercialSite\commercial\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\samir\Documents\New folder\commercialSite\commercial\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\samir\Documents\New folder\commercialSite\commercial\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\samir\Documents\New folder\commercialSite\commercial\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\samir\Documents\New folder\commercialSite\commercial\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\samir\Documents\New folder\commercialSite\commercial\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\samir\Documents\New folder\commercialSite\commercial\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\samir\Documents\New folder\commercialSite\commercial\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\samir\Documents\New folder\commercialSite\commercial\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\samir\Documents\New folder\commercialSite\commercial\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\samir\Documents\New folder\commercialSite\commercial\bin\Debug\net7.0\Npgsql.dll
+C:\Users\samir\Documents\New folder\commercialSite\commercial\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\samir\Documents\New folder\commercialSite\commercial\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\samir\Documents\New folder\commercialSite\commercial\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\samir\Documents\New folder\commercialSite\commercial\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\samir\Documents\New folder\commercialSite\commercial\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\samir\Documents\New folder\commercialSite\commercial\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\samir\Documents\New folder\commercialSite\commercial\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\samir\Documents\New folder\commercialSite\commercial\obj\Debug\net7.0\staticwebassets\msbuild.commercial.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\samir\Documents\New folder\commercialSite\commercial\obj\Debug\net7.0\staticwebassets\msbuild.build.commercial.props
+C:\Users\samir\Documents\New folder\commercialSite\commercial\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.commercial.props
+C:\Users\samir\Documents\New folder\commercialSite\commercial\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.commercial.props
+C:\Users\samir\Documents\New folder\commercialSite\commercial\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\samir\Documents\New folder\commercialSite\commercial\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\samir\Documents\New folder\commercialSite\commercial\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\samir\Documents\New folder\commercialSite\commercial\obj\Debug\net7.0\scopedcss\bundle\commercial.styles.css
+C:\Users\samir\Documents\New folder\commercialSite\commercial\obj\Debug\net7.0\commercial.csproj.CopyComplete
+C:\Users\samir\Documents\New folder\commercialSite\commercial\obj\Debug\net7.0\commercial.genruntimeconfig.cache
+C:\Users\samir\Documents\New folder\commercialSite\commercial\obj\Debug\net7.0\ref\commercial.dll
