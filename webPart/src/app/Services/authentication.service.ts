@@ -41,4 +41,9 @@ export class AuthenticationService {
             }));
     }
 
+    logout(user: User){
+       this.userSubject.next(null);
+       localStorage.removeItem('user');
+       this.router.navigate(['/'])
+    }
 }
